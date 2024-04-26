@@ -11,6 +11,7 @@ const ProfileScreen = () => {
         console.log('Name:', name);
         console.log('Email:', email);
         console.log('Password:', password);
+        console.log('Confirmed password:', password2);
         setName("");
         setEmail("");
         setPassword("");
