@@ -1,6 +1,6 @@
 const Config = {
-    newsUrl: '',
-    galleryUrl: 'https://raw.githubusercontent.com/dariia-ishchuk/MobileLabs/master/data/images.json',
+    newsUrl: 'https://raw.githubusercontent.com/Shevchenko-Dasha/MobileLabs/master/data/news.json',
+    galleryUrl: 'https://raw.githubusercontent.com/Shevchenko-Dasha/MobileLabs/master/data/images.json',
 };
 
 export default Config;
